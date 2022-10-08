@@ -15,11 +15,17 @@ Com as dependências instaladas, copie o arquivo `.env.example` para seu `.env`
 
 Configure as variáveis de ambiente, escolhendo a porta na qual será disponibilizado seu projeto, bem como um secret para a geração de tokens. Preencha também as informações do seu host de banco de dados.
 
+Para criar a estrutura do banco de dados, utilize
+
+```yarn typeorm migration:run```
+
 Por fim, utilize 
 
 ```yarn dev:server```
 
 para servir o projeto localmente. 
+
+
 
 ## Considerações finais
 
