@@ -12,7 +12,7 @@ const app = express();
 const port = process.env.PORT || 3333;
 
 app.use(cors({
-  origin: 'https://sgmf2.netlify.app'
+  origin: 'FRONT url aqui'
 }));
 app.use(express.json());
 app.use(routes);
