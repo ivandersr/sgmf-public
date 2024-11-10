@@ -27,11 +27,3 @@ para servir o projeto localmente.
 
 
 
-## Considerações finais
-
-Este projeto é apenas um passatempo que utilizei há um tempo para estudar alguns design patterns com DDD, sendo uma mistura de algumas sugestões e referências de amigos pelo discord.
-
-Sei que algumas libs já foram atualizadas e algumas configs podem estar não tão adequadas, mas quaisquer sugestões ou dúvidas que surgirem, entrem em [contato](https://linkedin.com/in/ivandersr)!
-
-### Muito Obrigado! :)
-
